@@ -77,9 +77,9 @@
                                                     <th>No</th>
                                                     <th>NISN</th>
                                                     <th>Nama Siswa</th>
-                                                    <th>Nilai Pelajaran</th>
-                                                    <th>Nilai Kepribadian</th>
-                                                    <th>Nilai Akademik</th>
+                                                    <th>Nilai IPA</th>
+                                                    <th>Nilai BAHASA</th>
+                                                    <th>Nilai IPS</th>
                                                     <th>Aksi</th>
                                                 </tr>
                                             </thead>

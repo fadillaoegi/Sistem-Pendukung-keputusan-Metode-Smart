@@ -16,9 +16,9 @@
                                         <th style="background-color: #ecf0f1;">No</th>
                                         <th style="background-color: #ecf0f1;">NISN</th>
                                         <th style="background-color: #ecf0f1;">Nama</th>
-                                        <th style="background-color: #ecf0f1;">Nilai Pelajaran</th>
-                                        <th style="background-color: #ecf0f1;">Nilai Kepribadian</th>
-                                        <th style="background-color: #ecf0f1;">Nilai Akademik</th>
+                                        <th style="background-color: #ecf0f1;">Nilai IPA</th>
+                                        <th style="background-color: #ecf0f1;">Nilai BAHASA</th>
+                                        <th style="background-color: #ecf0f1;">Nilai IPS</th>
                                         <th style="background-color: #ecf0f1;">Nilai Bobot Evaluasi</th> 
                                         <th style="background-color: #ecf0f1;">Pilihan JUrusan</th>
 
