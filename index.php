@@ -26,7 +26,7 @@
                             <!-- /.panel -->
                         </div>                        <!-- /.col-lg-12 -->
                         <div class="col-lg-12">
-                        <center><img class="img-fluid" src="css/2-01.png" width="20%"><br></center>
+                        <center><img class="img-fluid" src="css/2-01.png" width="20%"> <img style="width: 100px; height: 100px;" class="img-fluid" src="css/wtb.png" width="20%"><br></center>
                         </div>
                     </div>
                     <!-- /.row -->
