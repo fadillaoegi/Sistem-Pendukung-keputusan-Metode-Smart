@@ -86,7 +86,7 @@ require_once 'nav.php';
                                             <td><?= $n ?></td>
                                             <td><?= $barisbobot['nama_kriteria'] ?></td>
                                             <td class="text-right"><?= $barisbobot['bobot'] ?></td>
-                                            <td class="text-right"><?= round($barisbobot['bobot'] / $jumlah, 3) ?></td>
+                                            <td class="text-right"><?= round($barisbobot['bobot'] / $jumlah, 4) ?></td>
 
                                         </tr>
                                     <?php
