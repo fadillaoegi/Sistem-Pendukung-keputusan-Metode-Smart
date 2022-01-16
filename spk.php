@@ -10,7 +10,7 @@ require_once 'nav.php';
                 <h1 style="color: #ecf0f1;" class="page-header">HASIL SPK</h1>
             </div>
             <div class="col-lg-12">
-                <table class="table table-striped table-bordered table-hover">
+                <table style="background-color: #1abc9c;" class="table table-bordered table-hover">
                     <thead>
                         <tr>
                             <th style="background-color: #ecf0f1;">No</th>

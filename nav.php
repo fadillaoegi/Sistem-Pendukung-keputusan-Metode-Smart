@@ -12,8 +12,13 @@
 
         <title>Sistem Pengambilan Keputusan SMART</title>
 
+
+        <!-- Bootstrap 5 Core CSS -->
+        <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> -->
+
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
+
 
         <!-- MetisMenu CSS -->
         <link href="css/metisMenu.min.css" rel="stylesheet">
