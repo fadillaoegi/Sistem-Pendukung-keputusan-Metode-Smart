@@ -84,7 +84,7 @@ require_once 'nav.php';
                     </div>
                     <div class="panel-body">
                         <div class="table-responsive">
-                            <table class="table table-striped table-bordered table-hover">
+                            <table style="background-color: #1abc9c;" class="table table-bordered table-hover">
                                 <thead>
                                     <tr>
                                         <th>No</th>
