@@ -10,7 +10,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Sistem Pengambilan Keputusan SMART</title>
+        <title>Sistem Pengambilan Keputusan SMART</title>   
 
 
         <!-- Bootstrap 5 Core CSS -->
@@ -60,7 +60,7 @@
             <!-- Navigation -->
             <nav style="background-color: #2c3e50;"class="navbar navbar-default navbar-fixed-top" role="navigation">
                 <div class="navbar-header">
-                    <a style="color: #ecf0f1;" class="navbar-brand" href="">Fadil-UTS Sistem Pendukung Keputusan</a>
+                    <a style="color: #ecf0f1;" class="navbar-brand" href="">Fadil-UAS Sistem Pendukung Keputusan</a>
                     <img src="css/wtb.png" style="width: 70px; height: 70px; margin: auto;" alt="">
                     <img src="css/2-01.png" style="width: 70px; height: 70px; margin: auto;" alt="">
                 </div>
@@ -106,7 +106,7 @@
                                 <a href="nilai.php" class=""><i class="fa fa-edit fa-fw"></i> Isi Nilai Alternatif</a>
                             </li>
                             <li>
-                                <a href="spk.php" class=""><i class="fa fa-cogs fa-fw"></i> Proses SPK</a>
+                                <a href="spk.php" class=""><i class="fa fa-cogs fa-fw"></i> Proses SPK-Smart</a>
                             </li>
                             
                             <!-- <li>
